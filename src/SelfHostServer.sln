@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfHostServer", "ConsoleApp1\SelfHostServer.csproj", "{404DBA0E-CDDC-4328-AA0F-F19C76DD3DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404DBA0E-CDDC-4328-AA0F-F19C76DD3DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404DBA0E-CDDC-4328-AA0F-F19C76DD3DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404DBA0E-CDDC-4328-AA0F-F19C76DD3DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404DBA0E-CDDC-4328-AA0F-F19C76DD3DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8E6F67-DBB1-43AA-BA12-DC879D219150}
+	EndGlobalSection
+EndGlobal
